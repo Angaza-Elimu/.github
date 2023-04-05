@@ -2,6 +2,10 @@
 
 Welcome to the Angaza Elimu Open Source codebase.
 
+Interested in a chat with our contributors and wish to stay updated?
+
+Join our discord channel here! https://discord.gg/wXNjB98F
+
 ## What Pushes us
 Our goal is to empower every learner to reach their full potential by providing a highly personalized and engaging learning experience that meets their unique needs, interests, and goals. We envision a world where every learner has access to the resources and support they need to succeed, no matter where they are or what they are striving to achieve.
 
